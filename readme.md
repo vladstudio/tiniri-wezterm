@@ -51,7 +51,7 @@ local config = wezterm.config_builder()
 
 ---
 
-4. Apply a theme (e.g. Dark), replacing PATH/TO/HOME with actual path to your user home folder (e.g. `/Users/vlad/`):
+4. Apply a theme (e.g. Dark), replacing /PATH/TO/HOME with actual path to your user home folder (e.g. `/Users/vlad/`):
 
 ```
 config.color_scheme_dirs = { '/PATH/TO/HOME/.wezterm/themes' }
