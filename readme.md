@@ -75,3 +75,8 @@ config.background = {
 ```
 return config
 ```
+
+---
+
+If you want to follow OS appearance, see 
+https://wezfurlong.org/wezterm/config/lua/wezterm.gui/get_appearance.html
