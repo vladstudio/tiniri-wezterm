@@ -6,33 +6,33 @@
 
 [colors]
 ansi = [
-  "#252629", #Black
+  "#1F2122", #Black
   "#c66b67", # Red
   "#68a0a0", # Green
   "#AD8301", # Yellow
-  "#EB9350", # Blue
-  "#A89080", # Purple
-  "#A89080", # Cyan
-  "#DBD3CA", # White
+  "#F5A571", # Blue
+  "#938A80", # Purple
+  "#938A80", # Cyan
+  "#DBD7D1", # White
 ]
 brights = [
   "#575653", # Black
   "#c66b67", # Red
   "#68a0a0", # Green
   "#D0A215", # Yellow
-  "#EB9350", # Blue
-  "#A89080", # Purple
-  "#A89080", # Cyan
+  "#F5A571", # Blue
+  "#938A80", # Purple
+  "#938A80", # Cyan
   "#FFFCF0", # White
 ]
-foreground = "#DBD3CA"
-background = "#252629"
+foreground = "#DBD7D1"
+background = "#1F2122"
 
-cursor_bg = "#C76363"
-cursor_border = "#C76363"
-cursor_fg = "#DBD3CA"
+cursor_bg = "#AD514C"
+cursor_border = "#AD514C"
+cursor_fg = "#DBD7D1"
 selection_bg = "#314F52"
-selection_fg = "#DBD3CA"
+selection_fg = "#DBD7D1"
 
 [colors.indexed]
 
