@@ -6,7 +6,7 @@
 
 [colors]
 ansi = [
-  "#1F2122", #Black
+  "#1F2123", #Black
   "#c66b67", # Red
   "#68a0a0", # Green
   "#AD8301", # Yellow
@@ -26,7 +26,7 @@ brights = [
   "#FFFCF0", # White
 ]
 foreground = "#DBD7D1"
-background = "#1F2122"
+background = "#1F2123"
 
 cursor_bg = "#AD514C"
 cursor_border = "#AD514C"
